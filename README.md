@@ -8,7 +8,7 @@ THIS PROJECT IS THE ANALYTICS PART OF MY ![E-COMMERCE PIPELINE PROJECT](https://
 ![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=for-the-badge)
 
-**3 SQL files. 11 tables. 16 queries. One complete analytical system.**
+**3 SQL files. 11 tables.All Imporatnt queries. One complete analytical system.**
 
 [Schema Design](#-schema-design) • [E-Commerce Queries](#-e-commerce-analysis-10-queries) • [FCR/AML Queries](#-financial-crime-risk-6-queries) • [How to Run](#-how-to-run)
 
