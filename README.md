@@ -1,5 +1,5 @@
 # 🗄️ E-Commerce SQL Analytics — Query Library & Schema Design
-THIS PROJECT IS THE ANALYTICS PART OF MY ![E-COMMERCE PIPELINE PROJECT](https://github.com/ANKITA-GARG01/ecommerce-analytics-pipeline.git) ALL DATA IS LOADED INTO TABLE USING PYTHON
+THIS PROJECT IS THE ANALYTICS PART OF MY ![E-COMMERCE PIPELINE PROJECT](https://github.com/ANKITA-GARG01/ecommerce-analytics-pipeline.git). ALL DATA IS LOADED INTO TABLEs USING PYTHON
 
 
 <div align="center">
