@@ -21,8 +21,8 @@ THIS PROJECT IS THE ANALYTICS PART OF MY ![E-COMMERCE PIPELINE PROJECT](https://
 | File | Purpose | Contains |
 |------|---------|---------|
 | `Creating_Tables.sql` | Schema DDL | Creates all 11 tables — 7 e-commerce + 4 FCR/AML |
-| `E-commerce_Analysis.sql` | Business Analytics | 10 queries answering real business questions |
-| `Risk_Analysis.sql` | FCR/AML Engine | 6 queries for financial crime investigation |
+| `E-commerce_Analysis.sql` | Business Analytics | Queries answering real business questions |
+| `Risk_Analysis.sql` | FCR/AML Engine | Queries for financial crime investigation |
 
 ---
 
